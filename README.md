@@ -1,1 +1,1 @@
-# Cognitive-Game
+# Color Frenzy-Game
